@@ -1,0 +1,17 @@
+	{
+		"EmployeeID": 100,
+		"EmployeeName": "test",
+		"Status": "A"
+	},
+		"Status": "404001",
+		"Message": "Employee Not Found"
+	},
+	{
+		"Status": "400",
+		"Message": "empid should be number"
+	}, 
+	{
+	"Status": "500",
+	"Message": "Internal Server Error"	
+	}
+
